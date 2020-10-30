@@ -12,21 +12,20 @@ HTML é a linguagem de marcação padrão para páginas da web. HTML significa H
 
 O HTML não é uma linguagem de programação, isso significa que não pode ser usado para criar funcionalidades dinâmicas. Entretanto, o HTML possibilita a organização e formatação de documentos, similar ao Microsoft Word.
 
-Ao trabalhar com HTML simplesmente codificamos estruturas (tags e atributos) para marcar a página de um site. Por exemplo, podemos criar um parágrafo colocando o texto entre as tags 
-<!-- <p> e </p>. -->
+Ao trabalhar com HTML simplesmente codificamos estruturas (tags e atributos) para marcar a página de um site. Por exemplo, podemos criar um parágrafo colocando o texto entre as tags <p> e </p>.
 
 
 Exemplo: 
-<!-- 
+
 <p>Assim você cria um parágrafo com HTML.</p>
 <p>Você pode criar vários!</p> 
--->
+
 
 Fonte: Hostinger Tutotias. Disponível em: https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos/. Acessado em: 30/10/2020.
 
 2 - Estrutura básica do HTML
 
-<!-- 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +38,7 @@ Fonte: Hostinger Tutotias. Disponível em: https://www.hostinger.com.br/tutoriai
 
 </body>
 </html> 
--->
+
 
 Fonte: https://www.w3schools.com/html/
 
