@@ -1,12 +1,9 @@
-h1 {
-    color:blue; 
+#titulo{
+    color:blue;
 }
-
-p {
+.vermelho {
     color:red;
-    font-family: Arial;
 }
-
-strong {
-    color:green;
+p.missao {
+    font-family: Arial;
 }
