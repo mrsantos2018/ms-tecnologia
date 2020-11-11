@@ -1,9 +1,6 @@
-#titulo{
-    color:blue;
-}
-.vermelho {
-    color:red;
-}
-p.missao {
+#titulo, .missao {
     font-family: Arial;
+}
+.comum, .missao {
+    color:red;
 }
